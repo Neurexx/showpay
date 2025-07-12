@@ -30,6 +30,7 @@ cd showpay
 ```
 Change baseUrl in lib/utils/constants.dart to 'http://localhost:3000'
 ```bash
+flutter pub get
 flutter run
 ```
 
