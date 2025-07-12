@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class AppConstants {
-  static const String baseUrl = 'https://showpay-backend.onrender.com:3000';
+  static const String baseUrl = 'https://showpay-backend.onrender.com';
   static const String apiVersion = '/api/v1';
   
   // Storage keys
